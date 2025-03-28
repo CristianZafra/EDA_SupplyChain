@@ -1,8 +1,8 @@
 # EDA_Chain de suplicație
- Análisis exploratorio de datos en la cadena de resumen. Visualización interactiva y análisis multivariada, temporal y geográfica. Cuaderno lista para ejecutar en Google Colab.
-# 📦 Análisis Exploratorio de Datos (EDA) en Cadena de Suministro
+ Analís exploratorio de datos en la cadena de resumen. Visualización interactiva y analisis multivariada, temporal y geográfica. Cuaderno lista para ejecutar en Google Colab.
+# 📦 Analisis Exploratorio de Datos (EDA) en Cadena de Suministro
 
-Este repositorio contiene un cuaderno interactivo desarrollado para realizar un **Análisis Exploratorio de Datos (EDA)** sobre información relacionada con la **cadena de suministro**. . . . . . . El cuaderno está adaptado para Google Colab y permite cargar archivos desde el equipo mediante el asistente de subida de archivos (`fișieri.upload()`).
+Este repositorio contiene un cuaderno interactivo desarrollado para realizar un **Analísis Exploratorio de Datos (EDA)** sobre información relacionada con la **cadena de suministro**. . . . . . . . El cuaderno está adaptado para Google Colab y permite cargar archivos desde el equipo mediante el asistente de subida de archivos (`fișieri.upload()`).
 
 ---
 
@@ -14,7 +14,7 @@ Este repositorio contiene un cuaderno interactivo desarrollado para realizar un 
 
 ---
 
-## ?? ¦ Tecnologías y bibliotecas utilizadas
+## Tecnologías y bibliotecas utilizadas
 
 - Pitón 3
 - Colaboración de Google
